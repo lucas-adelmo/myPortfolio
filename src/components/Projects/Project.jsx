@@ -14,6 +14,7 @@ export function Project() {
                     </h1>
                     <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
                     Below are the projects I developed. I worked with React.js, Node.js, CSS and HTML, among other programming languages ​​and tools.
+                    Access my <a href='https://github.com/lucas-adelmo'>github profile</a> to see more.
                     </p>
                 </div>
                 <div className="flex flex-wrap -m-4">
